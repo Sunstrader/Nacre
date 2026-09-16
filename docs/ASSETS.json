@@ -1,0 +1,61 @@
+{
+  "version": "1.1.0",
+  "provider": "OpenAI image_gen — outil intégré",
+  "assets": [
+    {
+      "path": "assets/cover.png",
+      "bytes": 2644113,
+      "usage": "Écran-titre"
+    },
+    {
+      "path": "assets/world-a.png",
+      "bytes": 3421888,
+      "usage": "4 décors en atlas 2×2"
+    },
+    {
+      "path": "assets/world-b.png",
+      "bytes": 3113220,
+      "usage": "4 décors en atlas 2×2"
+    },
+    {
+      "path": "assets/portraits.png",
+      "bytes": 2675911,
+      "usage": "4 portraits en atlas 2×2"
+    },
+    {
+      "path": "assets/enemies.png",
+      "bytes": 2587342,
+      "usage": "4 adversaires en atlas 2×2"
+    },
+    {
+      "path": "assets/world-c-v2.png",
+      "bytes": 2932176,
+      "usage": "4 décors asymétriques en atlas 2×2"
+    },
+    {
+      "path": "assets/world-d-v2.png",
+      "bytes": 2690870,
+      "usage": "4 décors asymétriques en atlas 2×2"
+    },
+    {
+      "path": "assets/sprites-heroes-v2.png",
+      "bytes": 2350343,
+      "usage": "4 personnages principaux, 2 poses par personnage"
+    },
+    {
+      "path": "assets/sprites-npcs-v2.png",
+      "bytes": 2961348,
+      "usage": "3 personnages secondaires, 2 poses par personnage"
+    }
+  ],
+  "counts": {
+    "rooms": 14,
+    "events": 50,
+    "choices": 74,
+    "puzzles": 5,
+    "battles": 6,
+    "quests": 8,
+    "endings": 6,
+    "achievements": 14
+  }
+}

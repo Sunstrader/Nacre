@@ -1,0 +1,2 @@
+#!/bin/sh
+xdg-open "$(dirname "$0")/JOUER-NACRE.html"

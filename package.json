@@ -2,7 +2,7 @@
   "name": "nacre-les-voix-de-l-abime",
   "version": "2.0.0",
   "private": true,
-  "description": "Aventure narrative AAA hors ligne — Les voix de l’abîme (v2.0.0)",
+  "description": "Aventure narrative AAA hors ligne \u2014 Les voix de l\u2019ab\u00eeme (v2.0.0)",
   "scripts": {
     "start": "node tools/serve.cjs",
     "build": "node tools/build.cjs",

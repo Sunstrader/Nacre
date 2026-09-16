@@ -1,0 +1,37 @@
+{
+  "provider": "Built-in image_gen",
+  "assets": [
+    {
+      "key": "cover",
+      "prompt": "Use case: stylized-concept. Asset type: final production title-screen background for an original French narrative exploration RPG, NACRE. Create a wide cinematic 16:9 anime 2.5D hand-painted matte painting, premium art direction with crisp expressive shapes and rich detail. A breathtaking drowned Gothic coastal city at blue hour, colossal ivory moon-like ring broken in the sky above a distant lighthouse with a glowing teal heart. A stone arch frames the left foreground; stairs and tiny warm lanterns descend to flooded streets. A lone adult female cartographer with short ivory hair and a long dark-teal coat is small in the lower right, seen from behind, a coral-red scarf blowing. Teal, ink blue, weathered ivory, tiny warm gold accents. Depth and atmospheric luminous sea mist, tranquil yet mysterious, no photorealism. Leave the upper left dark and uncluttered for a title to be overlaid in HTML. No text, no letters, no logos, no UI. Landscape 1536x1024 or wider. This is a finished game background."
+    },
+    {
+      "key": "world-a",
+      "prompt": "Use case: stylized-concept. Asset type: ONE game environment texture atlas, exact 2 columns by 2 rows, four equal rectangular landscape panels edge-to-edge with no margins or separators. High-resolution 3072x2048 landscape sheet. Each panel is a distinct fully painted empty environment for original fantasy exploration game NACRE. Shared visual style: lavish 2.5D anime environment art, expressive painted architecture, deep midnight teal, ivory stone and warm amber lanterns, beautiful light, no photorealism. TOP LEFT: drowned harbor at blue dusk, foreground stone jetty, moored empty boat, distant pale lighthouse, luminous turquoise sea. TOP RIGHT: sheltered lantern market in flooded Gothic city, vaulted arcade and improvised amber-lit stalls, fabrics and tiny plants, evening, no people. BOTTOM LEFT: submerged archive, giant vaulted library with shallow reflective water, hanging amber lights, books and gold circular mechanism at back. BOTTOM RIGHT: magical glass conservatory, monumental roots of white-leaved tree, luminous blue plants and elegant curved glass roof. Preserve perfect straight horizontal and vertical panel boundaries at exactly half image. No writing, no characters, no UI, no watermarks."
+    },
+    {
+      "key": "world-b",
+      "prompt": "Use case: stylized-concept. Asset type: ONE game environment texture atlas, exact 2 columns by 2 rows, four equal landscape panels, no margins or dividers. High-resolution 3072x2048 landscape sheet. Each panel finished richly detailed 2.5D anime painted environment art for NACRE, matching midnight teal / ivory / warm amber drowned Gothic fantasy city. TOP LEFT: colossal lighthouse interior, spiral stairs around levitating turquoise prism, tall narrow windows and floating dust. TOP RIGHT: tidal engine room, gigantic antique brass wheels and channels of radiant cyan water, foreground metal walkway. BOTTOM LEFT: quiet camp atop city walls, small orange campfire, four empty bedrolls, hanging laundry and lanterns, vast sea beyond, peaceful intimate blue hour. BOTTOM RIGHT: heart of the abyss, otherworldly underwater cathedral with huge luminous ivory orb suspended over a black mirror of water, coral-like white arches and tiny golden memory lights, epic and melancholy. Perfect straight panel boundaries at exactly half image. No text, no people, no UI, no watermarks."
+    },
+    {
+      "key": "portraits",
+      "prompt": "Use case: stylized-concept. Asset type: ONE portrait texture atlas for original narrative game NACRE. Exact 2x2 grid of four equally sized square head-and-shoulders character portraits, dark teal subtly painted backgrounds, crisp premium 2.5D anime illustration with natural anatomy, richly painted fabrics, elegant expressive faces. All characters are clearly ADULTS age 25 to 40. TOP LEFT: Maelys, female protagonist age 28, short tousled ivory hair, gray green eyes, a small coral scarf and dark navy cartographer coat with brass trim, thoughtful resolute expression. TOP RIGHT: Ilyan, adult male former lighthouse guard age 32, dark wavy shoulder-length hair, medium olive skin, amber eyes, teal naval coat, small healed eyebrow scar, protective and gently tired expression. BOTTOM LEFT: Sera, adult female mechanic age 30, warm brown skin, copper curls in an undercut, brass goggles resting on head, ochre scarf and work apron, witty warm smile. BOTTOM RIGHT: Orin, adult male archivist age 38, pale freckled skin, silver round spectacles, long brown hair tied back, pale linen and dark blue scholarly clothes, discreet melancholy smile. Exact half-image straight dividing boundaries, portraits do not overlap. No letters, no names, no borders, no watermark. Each portrait fills its quadrant."
+    },
+    {
+      "key": "sprites-heroes-v2",
+      "prompt": "Game-ready 4-column by 2-row character atlas for NACRE. Columns: Maëlys, Ilyan, Séra, Orin. Row 1 attentive idle pose; row 2 emotionally engaged reaction pose. Identical adult identities, costume, scale and placement between rows; three-quarter full body; premium maritime gothic painterly realism; no text or UI."
+    },
+    {
+      "key": "sprites-npcs-v2",
+      "prompt": "Game-ready 3-column by 2-row NPC atlas for NACRE. Columns: Mina, Ysse, the Custodian. Row 1 idle; row 2 emotional reaction. Identical adult identities, scale and placement between rows; three-quarter full body; maritime gothic painterly realism; no text or UI."
+    },
+    {
+      "key": "world-c-v2",
+      "prompt": "Exact 2x2 atlas of asymmetrically composed maritime gothic environments for NACRE: harbor, lantern market, flooded archive, glass garden. Main landmark on a third, foreground occlusion, deep parallax, no people, text, borders or UI."
+    },
+    {
+      "key": "world-d-v2",
+      "prompt": "Exact 2x2 atlas of asymmetrically composed maritime gothic environments for NACRE: copper workshop, turbine sluice, storm bridge, lighthouse heart. Main landmark on a third, foreground silhouettes, deep parallax, no people, text, borders or UI."
+    }
+  ]
+}
